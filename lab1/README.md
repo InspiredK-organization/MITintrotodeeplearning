@@ -4,7 +4,7 @@
 ## Part 1: Intro to Deep Learning in Python -- TensorFlow and PyTorch
 TensorFlow ("TF") and PyTorch ("PT") are software libraries used in machine learning. Here we'll learn how computations are represented and how to define simple neural networks in TensorFlow and PyTorch. The TensorFlow labs will be prefixed by `TF`; PyTorch labs will be prefixed by `PT`.
 
-TensorFlow uses a high-level API called [Keras](https://www.tensorflow.org/guide/keras) that provides a powerful, intuitive framework for building and training deep learning models. In the TensorFlow Intro (`TF_Part1_Intro`) you will learn the basics of computations in TensorFlow, the Keras API, and TensorFlow 2.0's imperative execution style.
+TensorFlow uses a high-level API called [Keras](https://www.tensorflow.org/guide/keras) that provides a powerful, intuitive framework for building and training deep learning models. In the TensorFlow Intro (`Lab1.1 - Introduction to TensorFlow`) you will learn the basics of computations in TensorFlow, the Keras API, and TensorFlow 2.0's imperative execution style.
 
 [PyTorch](https://pytorch.org/) is a popular deep learning library known for its flexibility, ease of use, and dynamic execution. In the PyTorch Intro (`PT_Part1_Intro`) you will learn the basics of computations in PyTorch and how to define neural networks using either the sequential API and `torch.nn.Module`.
 
